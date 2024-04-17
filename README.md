@@ -16,6 +16,7 @@ To make a move, simply click on an empty cell in the 3x3 grid displayed on the G
 
 ## Key Features
 
+`User vs. User`: Play against another user.
 `User vs. AI computer (Easy Mode)`: Play against the computer with a simple AI opponent.
 `User vs. AI computer (Hard Mode)`: Play against the computer with a difficult AI opponent. In this mode the player will always have the first move.
 `User vs. AI computer (Hard Mode - Round Alternate`: Play against the computer with a difficult AI opponent. In this mode the rounds will alternate each round.
@@ -50,7 +51,7 @@ The Minimax algorithm empowers the computer opponent in the Tic-Tac-Toe game to 
 
 ## How to Run
 
-Depending on which mode you want to play, run the game by executing the Python scripts `Tic_Tac_Toe_AI-EasyMode.py`, `Tic_Tac_Toe_AI-HardMode-Round-Alternate.py`, or`Tic_Tac_Toe_AI-HardMode.py`. Ensure you have Python installed on your system along with the Tkinter library, which is usually included with standard Python installations.
+Depending on which mode you want to play, run the game by executing the Python scripts `Tic_Tac_Toe_Two-Player.py`, `Tic_Tac_Toe_AI-EasyMode.py`, `Tic_Tac_Toe_AI-HardMode-Round-Alternate.py`, or`Tic_Tac_Toe_AI-HardMode.py`. Ensure you have Python installed on your system along with the Tkinter library, which is usually included with standard Python installations.
 
 Game Mechanics
 The game logic is handled by Python functions, with the Tkinter library used for GUI elements such as buttons and labels.
