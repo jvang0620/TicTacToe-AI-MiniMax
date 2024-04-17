@@ -16,12 +16,12 @@ To make a move, simply click on an empty cell in the 3x3 grid displayed on the G
 
 ## Key Features
 
-`User vs. User`: Play against another user.
-`User vs. AI computer (Easy Mode)`: Play against the computer with a simple AI opponent.
-`User vs. AI computer (Hard Mode)`: Play against the computer with a difficult AI opponent. In this mode the player will always have the first move.
-`User vs. AI computer (Hard Mode - Round Alternate`: Play against the computer with a difficult AI opponent. In this mode the rounds will alternate each round.
-`Graphical Interface`: Enjoy a visually appealing GUI built with Tkinter.
-`Game State Display`: Keep track of wins and ties with counters displayed on the GUI.
+- `User vs. User`: Play against another user.
+- `User vs. AI computer (Easy Mode)`: Play against the computer with a simple AI opponent.
+- `User vs. AI computer (Hard Mode)`: Play against the computer with a difficult AI opponent. In this mode the player will always have the first move.
+- `User vs. AI computer (Hard Mode - Round Alternate`: Play against the computer with a difficult AI opponent. In this mode the rounds will alternate each round.
+- `Graphical Interface`: Enjoy a visually appealing GUI built with Tkinter.
+- `Game State Display`: Keep track of wins and ties with counters displayed on the GUI.
 
 ## Minimax Algorithm
 
